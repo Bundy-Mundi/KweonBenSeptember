@@ -2,10 +2,10 @@
 
 ## Problems
 
-### 1. `Easy` [Two Sum](https://leetcode.com/problems/two-sum/) 
+### 1. ✅ `Easy` [Two Sum](https://leetcode.com/problems/two-sum/) 
 ### 2. `Easy` [Same Tree](https://leetcode.com/problems/same-tree/)
-### 3. `Easy` [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
-### 4. `Easy` [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+### 3. ✅ `Easy` [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+### 4. ✅ `Easy` [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 ### 5. `Easy` [Single Number](https://leetcode.com/problems/single-number/)
 ### 6. `Easy` [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 ### 7. `Easy` [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
