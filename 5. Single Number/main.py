@@ -8,7 +8,6 @@ Link: https://leetcode.com/problems/single-number/discuss/42997/My-O(n)-solution
 3. Only one left will be returned
 
 * '^' is a bitwise operator
-
 '''
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
