@@ -9,7 +9,7 @@
 ### 5. ✅ `Easy` [Single Number](https://leetcode.com/problems/single-number/)
 ### 6. ✅ `Easy` [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 ### 7. `Easy` [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) => Did not pass the test
-### 8. `Easy` [Happy Number](https://leetcode.com/problems/happy-number/)
+### 8. ✅ `Easy` [Happy Number](https://leetcode.com/problems/happy-number/)
 ### 9. `Medium` [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
 ### 10. `Medium` [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 ### 11. `Medium` [Redundant Connection](https://leetcode.com/problems/redundant-connection/)
